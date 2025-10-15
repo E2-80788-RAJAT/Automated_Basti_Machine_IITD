@@ -1,0 +1,17 @@
+../Core/Src/ttp229.c:18:6:SetSCL	16	static
+../Core/Src/ttp229.c:26:15:GetSDO	8	static
+../Core/Src/ttp229.c:31:9:ReadKey8	8	static
+../Core/Src/ttp229.c:37:9:GetKey8	8	static
+../Core/Src/ttp229.c:42:9:ReadKeys8	8	static
+../Core/Src/ttp229.c:48:9:GetKeys8	8	static
+../Core/Src/ttp229.c:53:9:ReadKey16	8	static
+../Core/Src/ttp229.c:59:9:GetKey16	8	static
+../Core/Src/ttp229.c:64:10:ReadKeys16	8	static
+../Core/Src/ttp229.c:70:10:GetKeys16	8	static
+../Core/Src/ttp229.c:76:6:Key8	16	static
+../Core/Src/ttp229.c:84:6:Keys8	16	static
+../Core/Src/ttp229.c:92:6:Key16	16	static
+../Core/Src/ttp229.c:100:6:Keys16	16	static
+../Core/Src/ttp229.c:108:6:GetBit	16	static
+../Core/Src/ttp229.c:118:6:IsTouch	16	static
+../Core/Src/ttp229.c:135:6:WaitForTouch	8	static

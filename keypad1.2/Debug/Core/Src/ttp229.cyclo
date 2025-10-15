@@ -1,0 +1,17 @@
+../Core/Src/ttp229.c:18:6:SetSCL	2
+../Core/Src/ttp229.c:26:15:GetSDO	1
+../Core/Src/ttp229.c:31:9:ReadKey8	1
+../Core/Src/ttp229.c:37:9:GetKey8	2
+../Core/Src/ttp229.c:42:9:ReadKeys8	1
+../Core/Src/ttp229.c:48:9:GetKeys8	2
+../Core/Src/ttp229.c:53:9:ReadKey16	1
+../Core/Src/ttp229.c:59:9:GetKey16	2
+../Core/Src/ttp229.c:64:10:ReadKeys16	1
+../Core/Src/ttp229.c:70:10:GetKeys16	2
+../Core/Src/ttp229.c:76:6:Key8	3
+../Core/Src/ttp229.c:84:6:Keys8	3
+../Core/Src/ttp229.c:92:6:Key16	3
+../Core/Src/ttp229.c:100:6:Keys16	3
+../Core/Src/ttp229.c:108:6:GetBit	1
+../Core/Src/ttp229.c:118:6:IsTouch	5
+../Core/Src/ttp229.c:135:6:WaitForTouch	3

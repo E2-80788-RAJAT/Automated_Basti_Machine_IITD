@@ -1,0 +1,7 @@
+../Core/Src/main.c:69:6:HX711_Init	1
+../Core/Src/main.c:74:9:HX711_Read	4
+../Core/Src/main.c:95:7:HX711_GetWeight	2
+../Core/Src/main.c:114:5:main	3
+../Core/Src/main.c:163:6:SystemClock_Config	3
+../Core/Src/main.c:211:13:MX_GPIO_Init	1
+../Core/Src/main.c:252:6:Error_Handler	1
